@@ -1,6 +1,5 @@
-
-
 //데스크탑에서 실행하다가 폴더가 두개 생겼는데 하나는 빈깡통
+//소스트리 사용해서 커밋 및 푸쉬해보기
 
 import 'package:flutter/material.dart';
 
